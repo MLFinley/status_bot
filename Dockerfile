@@ -20,4 +20,4 @@ COPY status.py /app/status.py
 
 
 # Run transcribebot.py
-CMD ["python3", "transcribebot.py"]
+CMD ["python3", "status.py"]
